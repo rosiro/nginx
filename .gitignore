@@ -1,0 +1,13 @@
+Makefile
+inc/
+MANIFEST
+*.bak
+*.old
+*~
+nytprof.out
+nytprof/
+nohup.out
+inc/
+META.yml
+MYMETA.json
+MYMETA.yml
